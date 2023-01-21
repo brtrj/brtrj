@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @brtrj.
-- 👀 I’m interested in Data Analysis.
